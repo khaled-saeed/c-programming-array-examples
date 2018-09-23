@@ -5,6 +5,7 @@
 #define SIZE 10
 int main()
 {
+  /** this edit is after my first trail in this programe Git hub */ 
     // arrays is a group of memory locations that have the same name and the same data type ex) name[] = {a,s,d,f,....} , name[] is undetermined size array
 
     // to refer to a position in the array we mention the name of the array and the position number of this element ex) name[0]=a ;
@@ -52,9 +53,9 @@ int main()
         /** ######################### a program to read numbers and place it into array ########################*/
 
 
-        /*
 
 
+/*
     long i ,n[10] ;
     printf("Enter 10 numbers to add to the array \n") ;
     for (i=0; i<10 ;i++) {
@@ -630,7 +631,7 @@ int main()
 
             /** ##################################################### (Duplicate Elimination) Use a single-subscripted array to solve the following problem.
                                                                         Read in 20 numbers, each of which is between 10 and 100, inclusive. As each number is read, print
-                                                                        it only if it’s not a duplicate of a number already read. Provide for the “worst case” in which all 20
+                                                                        it only if itï¿½s not a duplicate of a number already read. Provide for the ï¿½worst caseï¿½ in which all 20
                                                                         numbers are different. Use the smallest possible array to solve this problem.*/
 
 
@@ -702,8 +703,8 @@ int main()
                     }
                     */
 
-                    /** #################################################### (Airline Reservations System) A small airline has just purchased a computer for its new automated reservations system. The president has asked you to program the new system. You’ll write
-                                                                                a program to assign seats on each flight of the airline’s only plane (capacity: 10 seats).
+                    /** #################################################### (Airline Reservations System) A small airline has just purchased a computer for its new automated reservations system. The president has asked you to program the new system. Youï¿½ll write
+                                                                                a program to assign seats on each flight of the airlineï¿½s only plane (capacity: 10 seats).
 
                                                                                 Your program should display the following menu of alternatives: */
 
@@ -986,6 +987,3 @@ int main()
                 }
 
          }
-
-
-
